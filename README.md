@@ -4,9 +4,9 @@
 This project analyzes sales data to evaluate business performance including revenue trends, profit margins, and regional sales distribution.
 
 ## Tools Used
-- MySQL
-- Excel
-- Power BI
+- MySQL (Data Querying)
+- Excel (Data Cleaning)
+- Power BI (Dashboard Visualization)
 
 ## Key Analysis
 - Revenue and profit KPI analysis
