@@ -1,4 +1,4 @@
-# Business Performance Dashboard and KPI Analysis
+# Sales Performance Dashboard and Profitability Analysis
 
 ## Project Overview
 This project analyzes sales data to evaluate business performance including revenue trends, profit margins, and regional sales distribution.
@@ -24,5 +24,9 @@ This project analyzes sales data to evaluate business performance including reve
 ## Dataset
 Sales dataset containing transaction-level business data used for analysis.
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Author
-Nagendra Sagar
+Nagendra V Sagar
