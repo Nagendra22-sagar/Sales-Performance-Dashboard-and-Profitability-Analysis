@@ -28,5 +28,13 @@ Sales dataset containing transaction-level business data used for analysis.
 
 ![Dashboard](dashboard.png)
 
+## Project Workflow
+
+1. Data collection from sales dataset
+2. Data cleaning and preprocessing in Excel
+3. SQL analysis for KPIs and revenue insights
+4. Power BI dashboard development
+5. Visualization of revenue trends and regional performance
+
 ## Author
 Nagendra V Sagar
